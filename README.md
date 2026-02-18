@@ -1,5 +1,5 @@
 
-# TIG-Star-3D-UAV-Planning
+# TIG-Star-3D-UAV-Path-Planning
 
 Official MATLAB implementation of:
 
