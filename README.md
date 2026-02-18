@@ -30,7 +30,7 @@ The framework is designed for:
 
 ---
 
-## 🧠 Algorithmic Concept
+## 🚀 Algorithmic Concept
 
 TIG\* is based on structured geometric reasoning rather than dense random sampling.
 
@@ -58,39 +58,6 @@ The planner operates with:
 - Escape behavior when local planning fails  
 
 O-TIG\* extends TIG\* toward realistic UAV navigation scenarios.
-
----
-
-## 📂 Repository Structure
-
-```
-TIG-Star-3D-UAV-Planning/
-│
-├── algorithms/
-│   ├── static/
-│   │   ├── stig3d_planner.m
-│   │   ├── otig3d_unknown_planner.m
-│   │
-│   ├── geometry/
-│   │   ├── compute_tangents.m
-│   │   ├── get_first_intersected_obstacle.m
-│   │   ├── calculate_angle.m
-│   │   ├── inflate_obstacles.m
-│   │   ├── obstacles_in_range.m
-│   │   └── ...
-│   │
-│   ├── evaluation/
-│   │   └── compute_path_metrics.m
-│
-├── main/
-│   ├── run_static.m
-│   ├── run_unknown.m
-│
-├── maps/
-│   ├── short1.mat
-│   ├── short3.mat
-│   └── ...
-```
 
 ---
 
@@ -153,7 +120,7 @@ compute_path_metrics(path, ds)
 
 ---
 
-## 🌍 Environment Model
+## 🚀 Environment Model
 
 The planner operates in bounded 3D environments containing:
 
